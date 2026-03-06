@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">A passionate frontend developer from Romania</h3>
 
-- 🔭 I’m currently working on [a delivery application](https://towny-client.vercel.app/)
-
 - 🌱 I’m currently learning **Nest.Js and Go**
-
-- 👨‍💻 All of my projects are available at [https://www.georgei.online/](https://www.georgei.online/)
 
 - 💬 Ask me about **React, Nest.Js, JavaScript**
 
 - 📫 How to reach me **george.ionita514@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G1G0tNIqCM-JDxXQVTNItmQuoDKf1lon/view?usp=sharing](https://drive.google.com/file/d/1G1G0tNIqCM-JDxXQVTNItmQuoDKf1lon/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
